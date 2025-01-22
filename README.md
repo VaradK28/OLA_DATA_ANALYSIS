@@ -18,8 +18,10 @@ This project focuses on analyzing Ola ride data to uncover insights into custome
 ## Tools Used
 
 **Python**: Data analysis and visualization.
+**Excel**: Data cleaning, exploration, and summary reports.
 **SQL**: Advanced querying and data manipulation.
 **Power BI**: Visualizations.
+
 
 ---
 
